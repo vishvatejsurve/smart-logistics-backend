@@ -3,7 +3,6 @@ package com.logistics_system.service.impl;
 import com.logistics_system.dto.Auth.AuthRequestDTO;
 import com.logistics_system.dto.Auth.RegisterRequestDTO;
 import com.logistics_system.entity.User;
-import com.logistics_system.enums.Role;
 import com.logistics_system.repository.UserRepository;
 import com.logistics_system.security.JwtUtil;
 import com.logistics_system.service.AuthService;
